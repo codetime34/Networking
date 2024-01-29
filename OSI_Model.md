@@ -1,10 +1,11 @@
 # OSI Model
 
 | Layers | Descriptions and keyword| Protocols | Devices| Encapsulation | 
+|:---|:---|:---|:---|:---|
 |Application|Provide an interface between the application and the lower layer network services|
 |Presentation| Data fortmats (file format), Encryption / Description, Compression / Decompression|
-|Session| Set up, maintain, and tear down communication session |
-|Transport| * Reliable (connection-oriented) and unreliable (connectionless) communications
+|Session| Set up, maintain, and tear down communication session |~~~|~~~|
+|Transport| * Reliable (connection-oriented) and unreliable (connectionless) communications, 
 * Port numbers
 * Segmentation/Reassembly
 * Sequencing
